@@ -8,3 +8,7 @@
 <img width="726" height="408" alt="imagen" src="https://github.com/user-attachments/assets/a76572de-d6da-4e0f-889b-5867b03e267e" />
 </p>
 
+### instalation
+```bash
+git clone https://github.com/S4m-Sepi0l/RevShell
+``` 
