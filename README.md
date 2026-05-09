@@ -15,4 +15,7 @@ git clone https://github.com/S4m-Sepi0l/RevShell
 ```bash
 cd RevShell
 ```
+```bash
+python revshell.py
+```
 
